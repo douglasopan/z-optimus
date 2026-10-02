@@ -5,18 +5,18 @@
   "platform": "windows-x86_64",
   "channel": "prototype",
   "classification": "public-free-prototype",
-  "version": "0.3.11",
-  "tag": "v0.3.11",
+  "version": "0.3.12",
+  "tag": "v0.3.12",
   "protocol": 4,
-  "rules": "z-optimus-2026-10-02-r11-armored-feedback",
+  "rules": "z-optimus-2026-10-02-r12-rally-response",
   "executable": {
-    "assetName": "Z-Optimus-0.3.11.exe",
-    "bytes": 267181256,
-    "sha256": "9cdaf48fbc90b81a6517468aa57abdd2112ca078c18158724c82e59a605d9e39"
+    "assetName": "Z-Optimus-0.3.12.exe",
+    "bytes": 267192888,
+    "sha256": "91638ea4c1b582ed97940e4c0a476c5555b72a7ddedf0cd60606694985ee547d"
   },
   "notices": {
-    "assetName": "Z-Optimus-0.3.11-NOTICES.txt",
-    "bytes": 111368,
-    "sha256": "6cf5074ae63461d18660050607b56e8a3c568ae375be64f8673943c08e444c2b"
+    "assetName": "Z-Optimus-0.3.12-NOTICES.txt",
+    "bytes": 111567,
+    "sha256": "09bb49707919e702586978cd8e162d432e14158cfbc847eb9d8c178ecb4b57b9"
   }
 }
