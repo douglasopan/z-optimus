@@ -5,18 +5,18 @@
   "platform": "windows-x86_64",
   "channel": "prototype",
   "classification": "public-free-prototype",
-  "version": "0.3.12",
-  "tag": "v0.3.12",
+  "version": "0.3.13",
+  "tag": "v0.3.13",
   "protocol": 4,
-  "rules": "z-optimus-2026-10-02-r12-rally-response",
+  "rules": "z-optimus-2026-10-03-r13-victory-terrain-navigation",
   "executable": {
-    "assetName": "Z-Optimus-0.3.12.exe",
-    "bytes": 267192888,
-    "sha256": "91638ea4c1b582ed97940e4c0a476c5555b72a7ddedf0cd60606694985ee547d"
+    "assetName": "Z-Optimus-0.3.13.exe",
+    "bytes": 268304320,
+    "sha256": "243617320629479271d801cb671d83ccd2c5523dbb4351737f9cbef7968d2abf"
   },
   "notices": {
-    "assetName": "Z-Optimus-0.3.12-NOTICES.txt",
-    "bytes": 111567,
-    "sha256": "09bb49707919e702586978cd8e162d432e14158cfbc847eb9d8c178ecb4b57b9"
+    "assetName": "Z-Optimus-0.3.13-NOTICES.txt",
+    "bytes": 113093,
+    "sha256": "528cfd7518a0791f4def9eba1e7d7b15b2939e859e6daf23863ddc6e2d23db04"
   }
 }
